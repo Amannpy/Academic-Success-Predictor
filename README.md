@@ -4,7 +4,7 @@ This Jupyter Notebook explores a dataset on student academic performance. It cov
 
 ---
 
-## 🧠 What You'll Learn
+## What You'll Learn
 
 - Why analyzing student performance matters
 - How to load and inspect real-world education data
@@ -24,11 +24,3 @@ This Jupyter Notebook explores a dataset on student academic performance. It cov
 6. [Data Visualization](#)
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone this repo
-
-```bash
-git clone https://github.com/your-username/student-academic-performance-analysis.git
-cd student-academic-performance-analysis
